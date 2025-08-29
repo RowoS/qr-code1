@@ -1,21 +1,27 @@
+html
+{
+    background-color: hsl(212, 45%, 89%);
+}
+
+
 .container
 {
     width: 310px;
-    margin: 0 auto;
 
+    margin: 0 auto 15px;
+    display: flex;
     justify-content: center;
-    text-align: center;
-    padding: 2rem;
+    align-items: center;
+    min-height: 90vh;
+    padding: 20px;
     border-radius: 8px;
-
 }
 
 .main
 {
     background: #f0f0f0;
     padding: 2rem;
-    border-radius: 8px;
-
+    border-radius: 0.5em;
 }
 
 .picture
@@ -27,16 +33,19 @@
     height: auto;
 } 
 
-.top-text
+p
 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.top-text
+{
     font-size: larger;
 }
 
 .description
 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
     font-size: 15px;
     opacity: 50%;
 }
