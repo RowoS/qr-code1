@@ -23,16 +23,21 @@
     display: block;
     width: 250px;
     border-radius: 5%;
-    
+    max-width: 100%;
+    height: auto;
 } 
 
 .top-text
 {
-
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
 }
 
 .description
 {
-
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    font-size: 15px;
+    opacity: 50%;
 }
 
