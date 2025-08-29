@@ -3,6 +3,11 @@ html
     background-color: hsl(212, 45%, 89%);
 }
 
+p
+{
+    font-family: "Outfit";
+    text-align: center;
+}
 
 .container
 {
@@ -32,12 +37,6 @@ html
     max-width: 100%;
     height: auto;
 } 
-
-p
-{
-    font-family: "Outfit";
-    text-align: center;
-}
 
 .top-text
 {
