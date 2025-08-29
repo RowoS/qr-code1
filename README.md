@@ -20,11 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 
-- Solution URL: [link to github repo added](https://github.com/RowoS/qr-code1)
-- Live Server URL: [link to vercel added](https://qr-code1-orpin.vercel.app/)
+- Solution URL: [GitHub Repo](https://github.com/RowoS/qr-code1)
+- Live Server URL: [Vercel App](https://qr-code1-orpin.vercel.app/)
 
 
 ## Author
 
-- Frontend Mentor: [link added](https://www.frontendmentor.io/profile/RowoS)
+- Frontend Mentor: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/RowoS)
 
